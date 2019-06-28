@@ -1,0 +1,5 @@
+ftp://rockyftp.cr.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/USGS_LPC_TN_Eastern_2_16_B16_Del2_2016_LAS_2017/las/tiled/USGS_LPC_TN_Eastern_2_16_B16_Del2_2016_2584605NW_LAS_2017.zip
+ftp://rockyftp.cr.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/USGS_LPC_TN_Eastern_2_16_B16_Del2_2016_LAS_2017/las/tiled/USGS_LPC_TN_Eastern_2_16_B16_Del2_2016_2584605SW_LAS_2017.zip
+ftp://rockyftp.cr.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/USGS_LPC_TN_Eastern_2_16_B16_Del2_2016_LAS_2017/las/tiled/USGS_LPC_TN_Eastern_2_16_B16_Del2_2016_2570605NE_LAS_2017.zip
+ftp://rockyftp.cr.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/USGS_LPC_TN_Eastern_2_16_B16_Del2_2016_LAS_2017/las/tiled/USGS_LPC_TN_Eastern_2_16_B16_Del2_2016_2570605SE_LAS_2017.zip
+
